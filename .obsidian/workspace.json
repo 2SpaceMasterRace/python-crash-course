@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "44009f031763837e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b12ceb752586677e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52da08df4468ce5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "deb02a70f296b613",
+    "type": "split",
+    "children": [
+      {
+        "id": "101b0d13c8a4de37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26edb2a62e6addef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e85d630e9ff5338e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07179c6224ad248d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95bde4c0ebe3dd55",
+    "type": "split",
+    "children": [
+      {
+        "id": "f704a08384dc2f0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3116e850441d3612",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fluent-Python-Clear-Concise-and-Effective-Programming-Second-Edition-Notes/Part-I-Data-Structures/chapter-1/Chapter 1 - The Python Data Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 1 - The Python Data Model"
+            }
+          },
+          {
+            "id": "f1a0dce78925b730",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fluent-Python-Clear-Concise-and-Effective-Programming-Second-Edition-Notes/Part-I-Data-Structures/chapter-1/Chapter 1 - The Python Data Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 1 - The Python Data Model"
+            }
+          },
+          {
+            "id": "5fe5f061b49c2dfe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "40df89a4e3b2b5d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fluent-Python-Clear-Concise-and-Effective-Programming-Second-Edition-Notes/Part-I-Data-Structures/chapter-1/Chapter 1 - The Python Data Model.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 1 - The Python Data Model"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "52da08df4468ce5e",
+  "lastOpenFiles": [
+    "python-language-reference/python-tips-and-tricks.md",
+    "python-language-reference",
+    "Fluent-Python-Clear-Concise-and-Effective-Programming-Second-Edition-Notes/Part-I-Data-Structures/chapter-1/Chapter 1 - The Python Data Model.md",
+    "High-Performance-Python-Practical-Performant-Programming-for-Humans-Second-Edition-Notes/Chapter 1 - Understanding Performant Python.md"
+  ]
+}

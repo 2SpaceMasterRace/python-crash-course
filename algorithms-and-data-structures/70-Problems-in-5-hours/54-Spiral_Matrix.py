@@ -1,7 +1,7 @@
 def spiralOrder(matrix: List[List[int]]) -> List[int]:
     #INPUT: m x n matrix
     #OUTPUT: return matrix in a spiral order
-
+    
     spiral_matrix = []
 
     while matrix:
